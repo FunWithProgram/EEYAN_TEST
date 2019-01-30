@@ -1,0 +1,4 @@
+com\yodlee\iae\presr\autobatchparser\persistence\AutobatchParserBatchDetails.class
+com\yodlee\iae\presr\autobatchparser\persistence\PersistenceConstants.class
+com\yodlee\iae\presr\autobatchparser\persistence\AutobatchParserPersistence.class
+com\yodlee\iae\presr\autobatchparser\persistence\AutobatchParserStatusPersistence.class

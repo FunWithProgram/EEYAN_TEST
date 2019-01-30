@@ -1,0 +1,6 @@
+com\yodlee\iae\presr\autobatchparser\steps\AutobatchParserStepsBase.class
+com\yodlee\iae\presr\autobatchparser\util\ParserConstants.class
+com\yodlee\iae\presr\autobatchparser\serviceImpl\AutobatchParserServiceImpl.class
+com\yodlee\iae\presr\autobatchparser\steps\AutobatchRepo.class
+com\yodlee\iae\presr\autobatchparser\steps\AutobatchParser.class
+com\yodlee\iae\presr\autobatchparser\steps\AutobatchSegment.class

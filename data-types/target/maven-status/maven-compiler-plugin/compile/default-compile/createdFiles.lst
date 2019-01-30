@@ -1,0 +1,13 @@
+com\yodlee\iae\presr\autobatchparser\datatypes\AutoBatchUsers.class
+com\yodlee\iae\presr\autobatchparser\datatypes\FinalAutobatchResponse.class
+com\yodlee\iae\presr\autobatchparser\datatypes\AutobatchRequestBody.class
+com\yodlee\iae\presr\autobatchparser\datatypes\BugResponse.class
+com\yodlee\iae\presr\autobatchparser\datatypes\ParserResponseObject.class
+com\yodlee\iae\presr\autobatchparser\datatypes\StatusRequestBody.class
+com\yodlee\iae\presr\autobatchparser\datatypes\UserDetails.class
+com\yodlee\iae\presr\autobatchparser\datatypes\bugr\BugEntity.class
+com\yodlee\iae\presr\autobatchparser\datatypes\WIP.class
+com\yodlee\iae\presr\autobatchparser\datatypes\ParserRequestBody.class
+com\yodlee\iae\presr\autobatchparser\datatypes\ParserResponseBody.class
+com\yodlee\iae\presr\autobatchparser\datatypes\bugr\BugResponseMap.class
+com\yodlee\iae\presr\autobatchparser\datatypes\AutobatchResponse.class

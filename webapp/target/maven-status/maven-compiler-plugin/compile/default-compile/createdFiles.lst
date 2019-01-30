@@ -1,0 +1,4 @@
+com\yodlee\iae\presr\autobatchparser\app\config\AppConfig.class
+com\yodlee\iae\presr\autobatchparser\app\config\ThreadConfig.class
+com\yodlee\iae\presr\autobatchparser\app\AutoBatchParserApp.class
+com\yodlee\iae\presr\autobatchparser\app\config\JerseyConfig.class
